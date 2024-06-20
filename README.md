@@ -29,4 +29,4 @@ Tim is a NASA-SERVIR Data Scientist
 
 Tim is also a Research Scientist with the University of Alabama in Huntsville (UAH) and member of the Laboratory for Applied Science (LAS).
 
-Tim is also a Google Developer Expert for Google Earth Engine working with GEE and Google Cloud Platform to use ML, DL, AI to address environmental issue around the world.
+Tim is also a Google Developer Expert for Google Earth Engine (GEE) working with GEE and Google Cloud Platform to use ML, DL, AI to address environmental issue around the world.
