@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-[![X]([https://img.shields.io/badge/python-3.x-blue.svg](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white))](https://x.com/TMayer_Science)
+[![X](https://img.shields.io/badge/python-3.x-blue.svg](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TMayer_Science)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=8mTbUxkAAAAJ&hl=en)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timmayer1/)
-[![image]([https://img.shields.io/conda/vn/conda-forge/servir-aces.svg](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white))](https://sites.google.com/uah.edu/2020-tensorflow-technical-exch/home)
+[![image](https://img.shields.io/conda/vn/conda-forge/servir-aces.svg](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://sites.google.com/uah.edu/2020-tensorflow-technical-exch/home)
 [![SERVIR: Global](https://img.shields.io/badge/SERVIR-Global-green)](https://servirglobal.net)
 
 <!-- [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/servir-aces.svg)](https://anaconda.org/conda-forge/servir-aces) -->
