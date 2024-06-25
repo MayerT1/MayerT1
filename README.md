@@ -24,9 +24,11 @@ Here are some ideas to get you started:
 
 <!-- [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/servir-aces.svg)](https://anaconda.org/conda-forge/servir-aces) -->
 
-Tim is a NASA-SERVIR Data Scientist 
-    SERVIR – a joint development initiative between NASA and the U.S. Agency for International Development (USAID) – I focus on strengthening the Earth observation application and data accessibility in developing nations. Focusing on Machine Learning, Deep Learning, and Artificial Intelligence approaches and works with the aim to build capacity with partners to leverage cutting edge technologies to address localized environmental challenges.
+:artificial_satellite: Tim is a NASA-SERVIR Data Scientist 
+:earth_asia:    SERVIR – a joint development initiative between NASA and the U.S. Agency for International Development (USAID) – I focus on strengthening the Earth observation application and data accessibility in developing nations. Focusing on Machine Learning, Deep Learning, and Artificial Intelligence approaches and works with the aim to build capacity with partners to leverage cutting edge technologies to address localized environmental challenges.
 
-Tim is also a Research Scientist with the University of Alabama in Huntsville (UAH) and member of the Laboratory for Applied Science (LAS).
+:scientist: Tim is also a Research Scientist with the University of Alabama in Huntsville (UAH) and member of the Laboratory for Applied Science (LAS).
 
-Tim is also a Google Developer Expert for Google Earth Engine (GEE) working with GEE and Google Cloud Platform to use ML, DL, AI to address environmental issue around the world.
+:globe_with_meridians:Tim is also a Google Developer Expert for Google Earth Engine (GEE) working with GEE and Google Cloud Platform to use ML, DL, AI to address environmental issue around the world.
+
+:evergreen_tree: :mountain: Tim is intrested in the interseciton of natural resources, envrionemental science, and geospatial research connected to AI. :evergreen_tree: :mountain: :earth_asia: :artificial_satellite:
