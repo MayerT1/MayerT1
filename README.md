@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 
 :globe_with_meridians:Tim is also a Google Developer Expert for Google Earth Engine (GEE) working with GEE and Google Cloud Platform to use ML, DL, AI to address environmental issue around the world.
 
-:evergreen_tree: :mountain: Tim is intrested in the interseciton of natural resources, envrionemental science, and geospatial research connected to AI. :evergreen_tree: :mountain: :earth_asia: :artificial_satellite:
+:evergreen_tree: :mountain: Tim is intrested in the interseciton of natural resources, envrionemental science, and geospatial research connected to AI. 
