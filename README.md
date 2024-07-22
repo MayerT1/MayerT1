@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 :scientist: Tim is also a Research Scientist with the University of Alabama in Huntsville (UAH) and member of the Laboratory for Applied Science (LAS).
 
-:globe_with_meridians:Tim is also a Google Developer Expert for Google Earth Engine (GEE) working with GEE and Google Cloud Platform to use ML, DL, AI to address environmental issue around the world.
+:globe_with_meridians:Tim is also a Google Developer Expert for Google Earth Engine (GEE) working with GEE and Google Cloud Platform to use ML, DL, and AI to address environmental issue around the world.
 
 :evergreen_tree: :mountain: Tim is intrested in the interseciton of natural resources, envrionemental science, and geospatial research connected to AI. 
