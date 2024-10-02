@@ -35,3 +35,7 @@ Here are some ideas to get you started:
 :globe_with_meridians:Tim is also a Google Developer Expert for Google Earth Engine (GEE) working with GEE and Google Cloud Platform to use ML, DL, and AI to address environmental issue around the world.
 
 :evergreen_tree: :mountain: Tim is intrested in the interseciton of natural resources, envrionemental science, and geospatial research connected to AI. 
+
+
+![alt](https://github-readme-stats.vercel.app/api/top-langs/?username=MayerT1&theme=default&show_icons=true&hide_border=true&layout=compact)
+
