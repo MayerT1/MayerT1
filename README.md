@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 [![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://sites.google.com/uah.edu/2020-tensorflow-technical-exch/home)
 [![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4.svg?style=for-the-badge&logo=Google-Earth-Engine&logoColor=white)](https://earthengine.google.com/)
 [![SERVIR: Global](https://img.shields.io/badge/SERVIR-Global-green)](https://servirglobal.net)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)(https://www.youtube.com/playlist?list=PLKlxghiZuIM59XVSjuye43qcHXRZLwQNN)
-[Geo-AI Working Group](https://sites.google.com/uah.edu/2020-tensorflow-technical-exch/home)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/playlist?list=PLKlxghiZuIM59XVSjuye43qcHXRZLwQNN)
+
 
 
 <!-- [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/servir-aces.svg)](https://anaconda.org/conda-forge/servir-aces) -->
@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 :scientist: Tim is also a Research Scientist with the University of Alabama in Huntsville (UAH) and member of the Laboratory for Applied Science (LAS).
 
 :globe_with_meridians:Tim is also a Google Developer Expert for Google Earth Engine (GEE) working with GEE and Google Cloud Platform to use ML, DL, and AI to address environmental issue around the world.
+
+:brain:Tim is the co-lead of the [SERVIR Geo-AI Working Group](https://sites.google.com/uah.edu/2020-tensorflow-technical-exch/home)
 
 :evergreen_tree: :mountain: Tim is intrested in the intersection of natural resources, envrionemental science, and geospatial research connected to AI. 
 
