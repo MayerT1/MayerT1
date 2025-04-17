@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 :earth_asia:   With SERVIR I focus on strengthening the Earth observation application and data accessibility in developing nations. Focusing on Machine Learning, Deep Learning, and Artificial Intelligence approaches and works with the aim to build capacity with partners to leverage cutting edge technologies to address localized environmental challenges.
 
-:scientist: Tim is also a Research Scientist with the University of Alabama in Huntsville (UAH) and member of the Laboratory for Applied Science (LAS).
+:scientist: Tim is also a Research Scientist with the University of Alabama in Huntsville (UAH) and member of the [Laboratory for Applied Science (LAS)](https://www.uah.edu/essc/laboratory-for-applied-science).
 
 :globe_with_meridians:Tim is also a Google Developer Expert for Google Earth Engine (GEE) working with GEE and Google Cloud Platform to use ML, DL, and AI to address environmental issue around the world.
 
