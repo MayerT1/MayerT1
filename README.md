@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 
 ![alt](https://github-readme-stats.vercel.app/api/top-langs/?username=MayerT1&theme=default&show_icons=true&hide_border=true&layout=compact)
 
-![Snake animation](https://github.com/MayerT1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MayerT1/MayerT1/blob/output/github-contribution-grid-snake.svg)
