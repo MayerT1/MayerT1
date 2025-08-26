@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 [![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4.svg?style=for-the-badge&logo=Google-Earth-Engine&logoColor=white)](https://earthengine.google.com/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/playlist?list=PLKlxghiZuIM59XVSjuye43qcHXRZLwQNN)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black)](https://huggingface.co/TMayer77)
-[![SERVIR: Global](https://img.shields.io/badge/SERVIR-Global-green)](https://servirglobal.net)
+<!-- [![SERVIR: Global](https://img.shields.io/badge/SERVIR-Global-green)](https://servirglobal.net) -->
 
 
 
 <!-- [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/servir-aces.svg)](https://anaconda.org/conda-forge/servir-aces) -->
 
-:artificial_satellite: Tim is a NASA-SERVIR Data Scientist
+:artificial_satellite: Tim is a NASA-EarthRISE Data Scientist
 
 :earth_asia:   With SERVIR I focus on strengthening the Earth observation application and data accessibility in developing nations. Focusing on Machine Learning, Deep Learning, and Artificial Intelligence approaches and works with the aim to build capacity with partners to leverage cutting edge technologies to address localized environmental challenges.
 
